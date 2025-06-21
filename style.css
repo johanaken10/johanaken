@@ -1,0 +1,146 @@
+ {
+margin: 0;
+padding: 0;
+
+}
+
+body, html{
+    height: auto;
+background-image: url(Bg_Aigles.aab32f3dcaa4edea.jpg);    
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+color: black;
+font-family: Arial, sans-serif;
+}
+
+.content {
+    text-align: center;
+    top: 20%;
+    background-color: rgba(0, 0, 0, 0, 4);
+}
+
+fieldset{
+            padding: 20px;
+            height: 350px;
+            background-color: #fffff999;
+            border: 1px solid transparent;
+            position: absolute;
+            margin-top: 40px;
+            right: 75px;
+            border-radius: 70px;
+}
+
+.champ {
+    padding: 5px;
+}
+
+.connexion{
+    padding: 10px;
+}
+.connexion input{
+    background-color: rgba(55, 41, 243, 0.699);
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    width: 315px;
+    height: 50px;
+    border-radius: 5px;
+    border: 5px;
+    margin-left: 10px;
+}
+
+h1{
+    color: rgb(255, 0, 119);
+    font-weight: 100;
+    margin-left: 115px;
+    text-align: left;
+}
+
+h2{
+    color: rgb(0, 183, 255);
+    font-weight: 100;
+    margin-left: 10px;
+    text-align: center;
+}
+
+h3{
+    color: rgb(0, 119, 255);
+    font-weight: 100;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.champ label{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.champ input{
+    margin-top: 10px;
+    width: 350px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #e4dfdf;
+    font-size: 15px;
+}
+
+.champ input:hover{
+    border: 5px solid rgba(42, 32, 182, 0.774);
+}
+
+.connexion input:hover{
+    background-color: rgba(42, 32, 182, 0.774);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+    left: 20px;
+    position: absolute;
+            margin-top: 50px;
+            left: 1px;
+            border-radius: 20px;
+}
+
+.bloc1 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: left;
+    margin-left: 1px;
+    font-weight: 200;
+    margin-left: 80px;
+    
+}
+
+
+.bloc2{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: left;
+    margin-left: 1px;
+    font-weight: 200;
+    margin-left: 80px;
+ 
+}
+
+.bloc3{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: left;
+    margin-left: 1px;
+    font-weight: 200;
+    margin-left: 80px;
+}
+
+
